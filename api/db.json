@@ -1,24 +1,24 @@
 {
   "streams": [
     {
-      "title": "Coding",
-      "description": "Live coding channedl",
+      "title": "Coding Streming",
+      "description": "Welcome to my coding stremings, Live coding channel every day grind is real cryptos n shit and LOL games fwt :D",
       "id": 1
     },
     {
-      "title": "Latest youtube",
-      "description": "A great youtube video",
+      "title": "Reaccionando",
+      "description": "Viendo un great youtube video",
       "id": 2
     },
     {
       "title": "The Future",
-      "description": "This is an stream about my future goals and ambitions.",
+      "description": "Super juego nuevo de bethesda vamo a verlo",
       "userId": "106020900133971725356",
       "id": 3
     },
     {
       "title": "Refactoring test",
-      "description": "Testing after the refactor of StreamCreate",
+      "description": "Testing new features of my game",
       "userId": "106020900133971725356",
       "id": 5
     }
